@@ -1,0 +1,13 @@
+SUSIG
+
+presentation.pdf
+latex-src/presentation
+
+latex-src/paper/*.cls
+latex-src/paper/*.aux
+latex-src/paper/*.log
+latex-src/paper/*.nav
+latex-src/paper/*.out
+latex-src/paper/*.snm
+latex-src/paper/*.gz
+latex-src/paper/*.toc
