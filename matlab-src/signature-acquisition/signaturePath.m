@@ -20,11 +20,9 @@ signaturePath = strcat(fileparts(pwd), slash, 'SUSIG');
 userString = num2str(userNumber, '%03d');
 
 if (isGenuine && sessionNumber == 1)
-    signaturePath = strcat(signaturePath, slash, 'GENUINE', slash, 'SESSION1', slash, userString, '_1_');
-    
+    signaturePath = strcat(signaturePath, slash, 'GENUINE', slash, 'SESSION1', slash, userString, '_1_');  
 elseif (isGenuine && sessionNumber == 2)
-    signaturePath = strcat(signaturePath, slash, 'GENUINE', slash, 'SESSION2', slash, userString, '_2_');
-    
+    signaturePath = strcat(signaturePath, slash, 'GENUINE', slash, 'SESSION2', slash, userString, '_2_'); 
 else
     signaturePath = strcat(signaturePath, slash, 'FORGERY', slash, userString, '_f_');
 end
