@@ -17,7 +17,8 @@ thresholds1 = transpose(thresholds);
 thresholds2 = transpose(thresholds);
 
 % Calculating FRR and FAR
-[usersFRR, usersFAR] = usersEvaluation(scoresGenuine1, scoresGenuine2, scoresForgery1, scoresForgery2, thresholds1, thresholds2);
+[usersFRR, usersFAR] = usersEvaluation(scoresGenuine1, scoresGenuine2, scoresForgery1, scoresForgery2, ...
+                                       thresholds1, thresholds2);
 
 % Print FRR and FAR
 fprintf('Total FRR: %.2f%%.\n', mean(usersFRR) * 100);
