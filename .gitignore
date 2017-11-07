@@ -1,17 +1,6 @@
 # Dataset folder
 SUSIG
 
-# LaTeX output files
+# LaTeX files
+latex-src
 presentation.pdf
-latex-src/paper/paper.pdf
-latex-src/presentation
-
-# LaTeX temporary files
-latex-src/paper/*.cls
-latex-src/paper/*.aux
-latex-src/paper/*.log
-latex-src/paper/*.nav
-latex-src/paper/*.out
-latex-src/paper/*.snm
-latex-src/paper/*.gz
-latex-src/paper/*.toc
