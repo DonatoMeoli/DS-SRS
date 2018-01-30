@@ -12,7 +12,7 @@ $ tar zxvf SUSIG.tar.gz
 
 ## Authors
 
-This software has been developed with the contribution of [**Andrea Sergas**](https://github.com/MrNobody1992).
+This software has been developed with [**Andrea Sergas**](https://github.com/MrNobody1992).
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
