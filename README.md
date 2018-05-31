@@ -1,6 +1,6 @@
 # Descriptive Statistical - Signature Recognition System
 
-DS-SRS is a recognition system for online handwritten signature verification based on a descriptive statistical approach developed during the Application Security course @ [Department of Computer Science](http://www.uniba.it/ricerca/dipartimenti/informatica) @ [University of Bari "Aldo Moro"](http://www.uniba.it/) under the supervision of Dr. [Donato Impedovo](https://www.linkedin.com/in/donato-impedovo-58655459/).
+DS-SRS is a recognition system for online handwritten signature verification based on a descriptive statistical approach developed during the Application Security course @ [Department of Computer Science](http://www.uniba.it/ricerca/dipartimenti/informatica) @ [University of Bari "Aldo Moro"](http://www.uniba.it/) under the supervision of dr. [Donato Impedovo](https://www.linkedin.com/in/donato-impedovo-58655459/).
 
 ## Prerequisites
 
