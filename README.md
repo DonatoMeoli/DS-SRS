@@ -4,7 +4,7 @@ DS-SRS is a recognition system for online handwritten signature verification bas
 
 ## Prerequisites
 
-To run the software you must extract the [SUSIG](http://biometrics.sabanciuniv.edu/susig.html) dataset folder from the SUSIG.tar.gz archive by typing into the terminal:
+To run the software you have to extract the [SUSIG](http://biometrics.sabanciuniv.edu/susig.html) dataset folder from the SUSIG.tar.gz archive by typing into the terminal:
 
 ```
 $ tar zxvf SUSIG.tar.gz
